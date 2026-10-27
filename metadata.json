@@ -1,0 +1,7 @@
+{
+  "name": "Luminance Mosaic Engine",
+  "description": "An advanced image processing tool that reconstructs a target image using a grid of tile images through luminance matching and high-performance browser-based rendering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
