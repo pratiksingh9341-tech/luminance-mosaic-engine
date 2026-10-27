@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Luminance Mosaic Engine
 
-# Run and deploy your AI Studio app
+A web application designed to process and render image mosaic patterns using Gemini API.
 
-This contains everything you need to run your app locally.
+## Features
+* Interactive mosaic pattern rendering
+* Fast client-side image processing with Vite & React
+* Integrated custom API configuration
 
-View your app in AI Studio: https://ai.studio/apps/drive/1r5fzZ8fNEtgruQ-a408Uy9CstTOF7l1_
+## Tech Stack
+* **Frontend:** React, TypeScript, Vite
+* **Styling:** CSS
+* **API:** Google Gemini API
+npm
+## Setup & Running Locally
 
-## Run Locally
+### Prerequisites
+* Node.js installed on your machine
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/pratiksingh9341-tech/luminance-mosaic-engine.git](https://github.com/pratiksingh9341-tech/luminance-mosaic-engine.git)
